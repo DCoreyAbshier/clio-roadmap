@@ -10,8 +10,8 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Build the typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | **Active** |
-| 2 | [Add configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | **Next** |
+| 1 | [Add configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | **Active** |
+| 2 | [Define stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | **Next** |
 
 ## Recently delivered foundations
 
@@ -22,14 +22,16 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 - [x] A bounded architecture for Character identity and multi-perspective Scenes
 - [x] Typed, effective-dated Character Continuity and Scene State
 - [x] Direct-generation access to richer Character state without additional model calls
+- [x] A layered, versioned World schema registry with validation and typed references
+- [x] Shared schema-driven Canon authoring and World extension support
 
 ## Ordered roadmap
 
 | Order | Public outcome | Phase | Status |
 | ---: | --- | --- | --- |
-| 1 | [Typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | Shared foundations | **Active** |
-| 2 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Next** |
-| 3 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | Planned |
+| 1 | [Typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | Shared foundations | **Delivered** |
+| 2 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Active** |
+| 3 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Next** |
 | 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | Planned |
 | 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | Planned |
 | 6 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | Planned |
@@ -54,12 +56,12 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 ## How progress is tracked
 
+- **Delivered** means the high-level public outcome has shipped and its roadmap issue is closed.
 - **Active** means the outcome is currently being implemented.
 - **Next** is the immediate follow-up after active work.
 - **Planned** work follows the displayed execution order.
 - **Deferred** work has deliberate entry conditions that have not been met.
 - **Opportunistic** maintenance is performed when a safe, natural opening appears.
-- Closing a public roadmap issue means its high-level outcome has been delivered.
 - Issue titles and this dashboard are updated when execution order or status changes.
 
 Browse and follow the individual [public roadmap issues](https://github.com/DCoreyAbshier/clio-roadmap/issues).
