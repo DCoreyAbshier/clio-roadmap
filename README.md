@@ -10,8 +10,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Add configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | **Active** |
-| 2 | [Define stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | **Next** |
+| 1 | [Define stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | **Next** |
 
 ## Recently delivered foundations
 
@@ -24,13 +23,15 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 - [x] Direct-generation access to richer Character state without additional model calls
 - [x] A layered, versioned World schema registry with validation and typed references
 - [x] Shared schema-driven Canon authoring and World extension support
+- [x] Versioned, World-configurable Character Condition vocabularies and setting packs
+- [x] Typed Character Condition lifecycle, historical projection, and viewpoint-safe diagnosis
 
 ## Ordered roadmap
 
 | Order | Public outcome | Phase | Status |
 | ---: | --- | --- | --- |
 | 1 | [Typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | Shared foundations | **Delivered** |
-| 2 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Active** |
+| 2 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Delivered** |
 | 3 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Next** |
 | 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | Planned |
 | 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | Planned |
@@ -58,7 +59,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 - **Delivered** means the high-level public outcome has shipped and its roadmap issue is closed.
 - **Active** means the outcome is currently being implemented.
-- **Next** is the immediate follow-up after active work.
+- **Next** is the immediate follow-up after active work or the first ready item when no work is active.
 - **Planned** work follows the displayed execution order.
 - **Deferred** work has deliberate entry conditions that have not been met.
 - **Opportunistic** maintenance is performed when a safe, natural opening appears.
