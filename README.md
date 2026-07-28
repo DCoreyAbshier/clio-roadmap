@@ -4,13 +4,15 @@ Clio is an AI-assisted role-playing engine focused on coherent long-running worl
 
 This repository is Clio's public, high-level product roadmap. It intentionally excludes private source code, detailed architecture, internal acceptance criteria, security information, and deployment details.
 
-> The roadmap describes intended direction, not promised release dates. Correctness, security, data integrity, or production reliability work may change the order.
+> The roadmap describes intended direction, not promised release dates. Correctness, security, data integrity, owner-directed cleanup, or production reliability work may change the order.
 
 ## Current focus
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Track significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | **Next** |
+| 1 | [Consolidate Canon into an encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | **Next** |
+
+This reprioritized pass will also improve safe cleanup of confusing, duplicate, or invalid accepted entries—especially Locations—through authoritative Canon and Location operations.
 
 ## Recently delivered foundations
 
@@ -29,6 +31,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 - [x] Audit-first Character Expression rollout with player-agency protection
 - [x] Campaign-scoped player-agency and viewpoint contracts across Scene types
 - [x] Accessible intent-aware Play input and a player-only Status Effects surface
+- [x] Significant-object identity, ownership, condition, and effective-dated placement history
 
 ## Ordered roadmap
 
@@ -38,7 +41,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | 2 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Delivered** |
 | 3 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Delivered** |
 | 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | **Delivered** |
-| 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | **Next** |
+| 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | **Delivered** |
 | 6 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | Planned |
 | 7 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | Planned |
 | 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | Planned |
@@ -51,7 +54,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | 15 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | Planned |
 | 16 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | Planned |
 | 17 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | Planned |
-| 18 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | Planned |
+| 18 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Next** |
 | 19 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | Planned |
 | 20 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
 | 21 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
@@ -64,7 +67,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 - **Delivered** means the high-level public outcome has shipped and its roadmap issue is closed.
 - **Active** means the outcome is currently being implemented.
 - **Next** is the immediate follow-up after active work or the first ready item when no work is active.
-- **Planned** work follows the displayed execution order.
+- **Planned** work follows the displayed execution order unless a documented owner-directed reprioritization addresses correctness, accepted-data cleanup, or a concrete product problem.
 - **Deferred** work has deliberate entry conditions that have not been met.
 - **Opportunistic** maintenance is performed when a safe, natural opening appears.
 - Issue titles and this dashboard are updated when execution order or status changes.
@@ -79,4 +82,4 @@ Browse and follow the individual [public roadmap issues](https://github.com/DCor
 4. Preserve reliable existing paths while advanced behavior is proven incrementally.
 5. Add optional integration or broader automation only after a concrete benefit is demonstrated.
 
-_Last synchronized with Clio's private engineering roadmap: July 27, 2026._
+_Last synchronized with Clio's private engineering roadmap: July 28, 2026._
