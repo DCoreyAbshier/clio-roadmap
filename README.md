@@ -8,8 +8,6 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 ## Current focus
 
-The immediate engineering priority is an internal correctness repair that restores full persistence validation after recent Character-state work. It is not a separate public product feature.
-
 | Position | Outcome | Status |
 | --- | --- | --- |
 | 1 | [Expand Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | **Next** |
@@ -31,6 +29,7 @@ The Canon encyclopedia audit confirmed that its existing browser and correction 
 - [x] Typed Character Condition lifecycle, historical projection, and viewpoint-safe diagnosis
 - [x] Sparse, effective-dated Character Expression with resistances and weaknesses
 - [x] Audit-first Character Expression rollout with player-agency protection
+- [x] Safe legacy fallback when a Scene has no authoritative story position
 - [x] Campaign-scoped player-agency and viewpoint contracts across Scene types
 - [x] Accessible intent-aware Play input and a player-only Status Effects surface
 - [x] Significant-object identity, ownership, condition, and effective-dated placement history
