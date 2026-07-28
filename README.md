@@ -10,11 +10,11 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Strengthen transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | **Next** |
+| 1 | [Consolidate Canon into an encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | **Next** |
 
-The immediate work extends Clio's proven operation/effect foundation through bounded adoption slices with clear causes, revision checks, idempotent commitment, supersession, and rollback evidence. It must preserve domain ownership rather than become a universal mutation or event-sourcing system.
+The transaction/effect, dependency-impact, and downstream-recovery foundations required for safe Canon lifecycle work are now delivered. Immediate work returns to Canon as the encyclopedia-like primary interface for browsing, understanding, creating, correcting, merging, retiring, and safely removing accepted world knowledge.
 
-The Canon encyclopedia audit confirmed that its existing browser and correction workflow are useful, but safe merge, retirement, retraction, and removal require the transaction, dependency-impact, and downstream-recovery foundations in outcomes #7, #8, and #9. Canon therefore remains planned behind those prerequisites.
+The first supported lifecycle work will use existing authoritative entity, fact, and relationship behavior. Unsupported object families, referenced history, and incomplete dependency coverage remain explicit safety boundaries rather than being hidden behind generic deletion.
 
 ## Recently delivered foundations
 
@@ -37,6 +37,9 @@ The Canon encyclopedia audit confirmed that its existing browser and correction 
 - [x] Significant-object identity, ownership, condition, and effective-dated placement history
 - [x] Effective-dated Pursuits with separate desire and obligation facets
 - [x] Continuity-scoped Achievements, Credentials, and coordinated Character-development outcomes
+- [x] Safe manual Canon transaction and typed-effect handling
+- [x] Accepted dependency paths with bounded traversal and explicit coverage
+- [x] Bounded downstream consequences, conflicts, retry, supersession, and reversion
 
 ## Ordered roadmap
 
@@ -48,19 +51,19 @@ The Canon encyclopedia audit confirmed that its existing browser and correction 
 | 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | **Delivered** |
 | 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | **Delivered** |
 | 6 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | **Delivered** |
-| 7 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | **Next** |
-| 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | Planned |
-| 9 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | Planned |
-| 10 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | Planned |
-| 11 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | Planned |
-| 12 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | Planned |
-| 13 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | Planned |
-| 14 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | Planned |
-| 15 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | Planned |
-| 16 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | Planned |
-| 17 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | Planned |
-| 18 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | Planned |
-| 19 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | Planned |
+| 7 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | **Delivered** |
+| 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | **Delivered** |
+| 9 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | **Delivered** |
+| 10 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Next** |
+| 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | Planned |
+| 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | Planned |
+| 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | Planned |
+| 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | Planned |
+| 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | Planned |
+| 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | Planned |
+| 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | Planned |
+| 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | Planned |
+| 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | Planned |
 | 20 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
 | 21 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
 | 22 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
