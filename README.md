@@ -10,7 +10,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Protect player agency and improve Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | **Next** |
+| 1 | [Track significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | **Next** |
 
 ## Recently delivered foundations
 
@@ -27,6 +27,8 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 - [x] Typed Character Condition lifecycle, historical projection, and viewpoint-safe diagnosis
 - [x] Sparse, effective-dated Character Expression with resistances and weaknesses
 - [x] Audit-first Character Expression rollout with player-agency protection
+- [x] Campaign-scoped player-agency and viewpoint contracts across Scene types
+- [x] Accessible intent-aware Play input and a player-only Status Effects surface
 
 ## Ordered roadmap
 
@@ -35,8 +37,8 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | 1 | [Typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | Shared foundations | **Delivered** |
 | 2 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Delivered** |
 | 3 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Delivered** |
-| 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | **Next** |
-| 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | Planned |
+| 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | **Delivered** |
+| 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | **Next** |
 | 6 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | Planned |
 | 7 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | Planned |
 | 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | Planned |
