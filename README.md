@@ -8,11 +8,13 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 ## Current focus
 
+The immediate engineering priority is an internal correctness repair that restores full persistence validation after recent Character-state work. It is not a separate public product feature.
+
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Consolidate Canon into an encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | **Next** |
+| 1 | [Expand Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | **Next** |
 
-This reprioritized pass will also improve safe cleanup of confusing, duplicate, or invalid accepted entries—especially Locations—through authoritative Canon and Location operations.
+The Canon encyclopedia audit confirmed that its existing browser and correction workflow are useful, but safe merge, retirement, retraction, and removal require the transaction, dependency-impact, and downstream-recovery foundations in outcomes #7, #8, and #9. Canon therefore remains planned behind those prerequisites.
 
 ## Recently delivered foundations
 
@@ -42,7 +44,7 @@ This reprioritized pass will also improve safe cleanup of confusing, duplicate, 
 | 3 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Delivered** |
 | 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | **Delivered** |
 | 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | **Delivered** |
-| 6 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | Planned |
+| 6 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | **Next** |
 | 7 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | Planned |
 | 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | Planned |
 | 9 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | Planned |
@@ -54,7 +56,7 @@ This reprioritized pass will also improve safe cleanup of confusing, duplicate, 
 | 15 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | Planned |
 | 16 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | Planned |
 | 17 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | Planned |
-| 18 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Next** |
+| 18 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | Planned |
 | 19 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | Planned |
 | 20 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
 | 21 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
@@ -66,8 +68,8 @@ This reprioritized pass will also improve safe cleanup of confusing, duplicate, 
 
 - **Delivered** means the high-level public outcome has shipped and its roadmap issue is closed.
 - **Active** means the outcome is currently being implemented.
-- **Next** is the immediate follow-up after active work or the first ready item when no work is active.
-- **Planned** work follows the displayed execution order unless a documented owner-directed reprioritization addresses correctness, accepted-data cleanup, or a concrete product problem.
+- **Next** is the immediate follow-up after active work or the first ready public outcome when no public feature is active.
+- **Planned** work follows the displayed execution order unless correctness or a discovered dependency requires a documented change.
 - **Deferred** work has deliberate entry conditions that have not been met.
 - **Opportunistic** maintenance is performed when a safe, natural opening appears.
 - Issue titles and this dashboard are updated when execution order or status changes.
