@@ -10,11 +10,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Consolidate Canon into an encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | **Next** |
+| 1 | [Model significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | **Next** |
 
-The transaction/effect, dependency-impact, and downstream-recovery foundations required for safe Canon lifecycle work are now delivered. Immediate work returns to Canon as the encyclopedia-like primary interface for browsing, understanding, creating, correcting, merging, retiring, and safely removing accepted world knowledge.
-
-The first supported lifecycle work will use existing authoritative entity, fact, and relationship behavior. Unsupported object families, referenced history, and incomplete dependency coverage remain explicit safety boundaries rather than being hidden behind generic deletion.
+The next outcome will distinguish confirmed knowledge, likely awareness, possible awareness, excluded information, and audience-specific reputation from accepted dissemination and exposure evidence. Characters should react only to information they could reasonably know without requiring transcript replay or one persistent awareness record per character and Event.
 
 ## Recently delivered foundations
 
@@ -40,6 +38,7 @@ The first supported lifecycle work will use existing authoritative entity, fact,
 - [x] Safe manual Canon transaction and typed-effect handling
 - [x] Accepted dependency paths with bounded traversal and explicit coverage
 - [x] Bounded downstream consequences, conflicts, retry, supersession, and reversion
+- [x] A unified Canon encyclopedia with impact-confirmed lifecycle supersession for supported objects
 
 ## Ordered roadmap
 
@@ -54,8 +53,8 @@ The first supported lifecycle work will use existing authoritative entity, fact,
 | 7 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | **Delivered** |
 | 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | **Delivered** |
 | 9 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | **Delivered** |
-| 10 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Next** |
-| 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | Planned |
+| 10 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Delivered** |
+| 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | **Next** |
 | 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | Planned |
 | 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | Planned |
 | 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | Planned |
