@@ -10,10 +10,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Add relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | **Active** |
-| 2 | [Support compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | **Next** |
+| 1 | [Support compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | **Next** |
 
-The active outcome adds sparse directional relationship state and derives qualitative Activation Pressure and social initiative from accepted Character, relationship, Event, awareness, and Scene evidence—without numeric meters. Bounded compound turns across authoritative Scenes are the immediate follow-up.
+The next outcome will support bounded multi-part player turns across authoritative Scenes while keeping each Scene's time, Location, participants, context, state, and consequences isolated.
 
 ## Recently delivered foundations
 
@@ -41,6 +40,7 @@ The active outcome adds sparse directional relationship state and derives qualit
 - [x] Bounded downstream consequences, conflicts, retry, supersession, and reversion
 - [x] A unified Canon encyclopedia with impact-confirmed lifecycle supersession for supported objects
 - [x] Effective-dated Event dissemination with Character awareness and audience-specific reputation
+- [x] Directional relationship state with qualitative Activation Pressure and social initiative
 
 ## Ordered roadmap
 
@@ -57,7 +57,7 @@ The active outcome adds sparse directional relationship state and derives qualit
 | 9 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | **Delivered** |
 | 10 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Delivered** |
 | 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | **Delivered** |
-| 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | **Active** |
+| 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | **Delivered** |
 | 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Next** |
 | 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | Planned |
 | 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | Planned |
