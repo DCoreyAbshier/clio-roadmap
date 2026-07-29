@@ -10,9 +10,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Support compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | **Next** |
+| 1 | [Create new Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | **Next** |
 
-The next outcome will support bounded multi-part player turns across authoritative Scenes while keeping each Scene's time, Location, participants, context, state, and consequences isolated.
+The next outcome will reuse an existing authoritative Location while creating a distinct Scene for a later visit, preserving both reusable place identity and the history of each narrative occurrence.
 
 ## Recently delivered foundations
 
@@ -41,6 +41,7 @@ The next outcome will support bounded multi-part player turns across authoritati
 - [x] A unified Canon encyclopedia with impact-confirmed lifecycle supersession for supported objects
 - [x] Effective-dated Event dissemination with Character awareness and audience-specific reputation
 - [x] Directional relationship state with qualitative Activation Pressure and social initiative
+- [x] Bounded compound turns with isolated per-Scene context and atomic persistence
 
 ## Ordered roadmap
 
@@ -58,8 +59,8 @@ The next outcome will support bounded multi-part player turns across authoritati
 | 10 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Delivered** |
 | 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | **Delivered** |
 | 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | **Delivered** |
-| 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Next** |
-| 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | Planned |
+| 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Delivered** |
+| 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | **Next** |
 | 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | Planned |
 | 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | Planned |
 | 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | Planned |
@@ -91,4 +92,4 @@ Browse and follow the individual [public roadmap issues](https://github.com/DCor
 4. Preserve reliable existing paths while advanced behavior is proven incrementally.
 5. Add optional integration or broader automation only after a concrete benefit is demonstrated.
 
-_Last synchronized with Clio's private engineering roadmap: July 28, 2026._
+_Last synchronized with Clio's private engineering roadmap: July 29, 2026._
