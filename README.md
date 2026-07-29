@@ -10,9 +10,10 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Model significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | **Next** |
+| 1 | [Add relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | **Active** |
+| 2 | [Support compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | **Next** |
 
-The next outcome will distinguish confirmed knowledge, likely awareness, possible awareness, excluded information, and audience-specific reputation from accepted dissemination and exposure evidence. Characters should react only to information they could reasonably know without requiring transcript replay or one persistent awareness record per character and Event.
+The active outcome adds sparse directional relationship state and derives qualitative Activation Pressure and social initiative from accepted Character, relationship, Event, awareness, and Scene evidence—without numeric meters. Bounded compound turns across authoritative Scenes are the immediate follow-up.
 
 ## Recently delivered foundations
 
@@ -39,6 +40,7 @@ The next outcome will distinguish confirmed knowledge, likely awareness, possibl
 - [x] Accepted dependency paths with bounded traversal and explicit coverage
 - [x] Bounded downstream consequences, conflicts, retry, supersession, and reversion
 - [x] A unified Canon encyclopedia with impact-confirmed lifecycle supersession for supported objects
+- [x] Effective-dated Event dissemination with Character awareness and audience-specific reputation
 
 ## Ordered roadmap
 
@@ -54,9 +56,9 @@ The next outcome will distinguish confirmed knowledge, likely awareness, possibl
 | 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | **Delivered** |
 | 9 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | **Delivered** |
 | 10 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Delivered** |
-| 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | **Next** |
-| 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | Planned |
-| 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | Planned |
+| 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | **Delivered** |
+| 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | **Active** |
+| 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Next** |
 | 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | Planned |
 | 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | Planned |
 | 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | Planned |
