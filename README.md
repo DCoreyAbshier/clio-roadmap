@@ -10,9 +10,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Position | Outcome | Status |
 | --- | --- | --- |
-| 1 | [Add bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | **Next** |
+| 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Next** |
 
-The next outcome will evaluate only affected developments at bounded narrative and temporal checkpoints, applying deterministic changes quietly while surfacing meaningful decisions through Scenes, Events, player action, or Review.
+The next outcome will coordinate small casts through finite Character proposals, audience-safe Scene beats, explicit model-call and token budgets, and one authoritative final Play completion while preserving direct generation as the default fallback.
 
 ## Recently delivered foundations
 
@@ -43,6 +43,7 @@ The next outcome will evaluate only affected developments at bounded narrative a
 - [x] Directional relationship state with qualitative Activation Pressure and social initiative
 - [x] Bounded compound turns with isolated per-Scene context and atomic persistence
 - [x] Distinct Scenes for later visits while reusing authoritative Location identity
+- [x] Deterministic bounded simulation checkpoints with audience-scoped escalation
 
 ## Ordered roadmap
 
@@ -62,8 +63,8 @@ The next outcome will evaluate only affected developments at bounded narrative a
 | 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | **Delivered** |
 | 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Delivered** |
 | 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | **Delivered** |
-| 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | **Next** |
-| 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | Planned |
+| 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | **Delivered** |
+| 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Next** |
 | 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | Planned |
 | 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | Planned |
 | 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | Planned |
