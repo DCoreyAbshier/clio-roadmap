@@ -11,10 +11,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | Position | Outcome | Status |
 | --- | --- | --- |
 | 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Active** |
-| 2 | [Provide downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | **Active** |
-| 3 | [Add Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | **Next** |
+| 2 | [Add Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | **Next** |
 
-Bounded Character orchestration remains in default-off provider and owner validation. Downloadable application-owned import templates are implemented and under review. Location spatial state and significant history are the next public product outcome; a small internal Play-composer refinement may land first.
+Bounded Character orchestration remains in default-off provider and owner validation. Location spatial state and significant history are the next implementation outcome.
 
 ## Recently delivered foundations
 
@@ -46,6 +45,8 @@ Bounded Character orchestration remains in default-off provider and owner valida
 - [x] Bounded compound turns with isolated per-Scene context and atomic persistence
 - [x] Distinct Scenes for later visits while reusing authoritative Location identity
 - [x] Deterministic bounded simulation checkpoints with audience-scoped escalation
+- [x] Application-owned downloadable versioned import templates and starter bundle
+- [x] A single native Play composer with compact inline intent feedback
 
 ## Ordered roadmap
 
@@ -67,7 +68,7 @@ Bounded Character orchestration remains in default-off provider and owner valida
 | 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | **Delivered** |
 | 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | **Delivered** |
 | 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Active** |
-| 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Active** |
+| 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Delivered** |
 | 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Next** |
 | 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | Planned |
 | 20 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
