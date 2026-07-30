@@ -13,7 +13,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Active** |
 | 2 | [Add Canon object and tag-group references to Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | **Next** |
 
-Bounded Character orchestration remains in default-off provider and owner validation. Persistent Location visual sets are delivered; direct Canon-object autocomplete and tag-group references in Play are the next public product outcome.
+Bounded Character orchestration remains in default-off provider and owner validation. Persistent Location visual sets are delivered; direct Canon-object autocomplete and tag-group references in Play are next, followed by adaptive planning that independently scales relevant context and narrative scope.
 
 ## Recently delivered foundations
 
@@ -74,11 +74,12 @@ Bounded Character orchestration remains in default-off provider and owner valida
 | 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Delivered** |
 | 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Delivered** |
 | 20 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Next** |
-| 21 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
-| 22 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
-| 23 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
-| 24 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
-| 25 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
+| 21 | [Adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | Scenes and generation | Planned |
+| 22 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
+| 23 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
+| 24 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
+| 25 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
+| 26 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
 
 ## How progress is tracked
 
