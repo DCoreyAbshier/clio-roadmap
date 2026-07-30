@@ -11,9 +11,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | Position | Outcome | Status |
 | --- | --- | --- |
 | 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Active** |
-| 2 | [Add persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | **Next** |
+| 2 | [Add Canon object and tag-group references to Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | **Next** |
 
-Bounded Character orchestration remains in default-off provider and owner validation. Location spatial state and significant history are delivered; persistent Location visual sets are the next public product outcome after a small private Play-composer alignment repair.
+Bounded Character orchestration remains in default-off provider and owner validation. Persistent Location visual sets are delivered; direct Canon-object autocomplete and tag-group references in Play are the next public product outcome.
 
 ## Recently delivered foundations
 
@@ -48,6 +48,7 @@ Bounded Character orchestration remains in default-off provider and owner valida
 - [x] Application-owned downloadable versioned import templates and starter bundle
 - [x] A single native Play composer with compact inline intent feedback
 - [x] Layered Location baseline, current Spatial State, significant-transition history, and Scene-context integration
+- [x] Persistent Location visual sets with Canon management and subordinate Play orientation
 
 ## Ordered roadmap
 
@@ -71,12 +72,13 @@ Bounded Character orchestration remains in default-off provider and owner valida
 | 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Active** |
 | 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Delivered** |
 | 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Delivered** |
-| 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Next** |
-| 20 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
-| 21 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
-| 22 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
-| 23 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
-| 24 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
+| 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Delivered** |
+| 20 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Next** |
+| 21 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
+| 22 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
+| 23 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
+| 24 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
+| 25 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
 
 ## How progress is tracked
 
@@ -98,4 +100,4 @@ Browse and follow the individual [public roadmap issues](https://github.com/DCor
 4. Preserve reliable existing paths while advanced behavior is proven incrementally.
 5. Add optional integration or broader automation only after a concrete benefit is demonstrated.
 
-_Last synchronized with Clio's private engineering roadmap: July 29, 2026._
+_Last synchronized with Clio's private engineering roadmap: July 30, 2026._
