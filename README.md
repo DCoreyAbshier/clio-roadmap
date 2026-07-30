@@ -11,9 +11,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | Position | Outcome | Status |
 | --- | --- | --- |
 | 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Active** |
-| 2 | [Add Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | **Next** |
+| 2 | [Add persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | **Next** |
 
-Bounded Character orchestration remains in default-off provider and owner validation. Location spatial state and significant history are the next implementation outcome.
+Bounded Character orchestration remains in default-off provider and owner validation. Location spatial state and significant history are delivered; persistent Location visual sets are the next public product outcome after a small private Play-composer alignment repair.
 
 ## Recently delivered foundations
 
@@ -47,6 +47,7 @@ Bounded Character orchestration remains in default-off provider and owner valida
 - [x] Deterministic bounded simulation checkpoints with audience-scoped escalation
 - [x] Application-owned downloadable versioned import templates and starter bundle
 - [x] A single native Play composer with compact inline intent feedback
+- [x] Layered Location baseline, current Spatial State, significant-transition history, and Scene-context integration
 
 ## Ordered roadmap
 
@@ -69,8 +70,8 @@ Bounded Character orchestration remains in default-off provider and owner valida
 | 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | **Delivered** |
 | 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Active** |
 | 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Delivered** |
-| 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Next** |
-| 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | Planned |
+| 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Delivered** |
+| 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Next** |
 | 20 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
 | 21 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
 | 22 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
