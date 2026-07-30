@@ -11,9 +11,9 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | Position | Outcome | Status |
 | --- | --- | --- |
 | 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Active** |
-| 2 | [Add Canon object and tag-group references to Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | **Next** |
+| 2 | [Add adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | **Next** |
 
-Bounded Character orchestration remains in default-off provider and owner validation. Persistent Location visual sets are delivered; direct Canon-object autocomplete and tag-group references in Play are next, followed by adaptive planning that independently scales relevant context and narrative scope.
+Bounded Character orchestration remains in default-off provider and owner validation. Direct Canon-object autocomplete and tag-group references in Play are delivered; adaptive planning that independently scales relevant context and narrative scope is next.
 
 ## Recently delivered foundations
 
@@ -49,6 +49,7 @@ Bounded Character orchestration remains in default-off provider and owner valida
 - [x] A single native Play composer with compact inline intent feedback
 - [x] Layered Location baseline, current Spatial State, significant-transition history, and Scene-context integration
 - [x] Persistent Location visual sets with Canon management and subordinate Play orientation
+- [x] Scoped Canon object and tag-group references in the native Play composer
 
 ## Ordered roadmap
 
@@ -73,8 +74,8 @@ Bounded Character orchestration remains in default-off provider and owner valida
 | 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Delivered** |
 | 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Delivered** |
 | 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Delivered** |
-| 20 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Next** |
-| 21 | [Adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | Scenes and generation | Planned |
+| 20 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Delivered** |
+| 21 | [Adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | Scenes and generation | **Next** |
 | 22 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
 | 23 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
 | 24 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
