@@ -8,11 +8,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 ## Current focus
 
-| Position | Outcome | Status |
-| --- | --- | --- |
-| 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Active** |
-
-Bounded Character orchestration now uses one authoritative Scene-turn path for zero, one, or two optional Character workers and remains active for exact-World field validation. Adaptive generation planning and the persistent World news experience are delivered. No immediate public feature is currently designated **Next**; planned work remains ordered below while active validation finishes.
+No public outcome is currently designated **Active** or **Next**. Bounded multi-Character orchestration and conversation-first fast-forwarding are now delivered after owner validation. Planned and tooling-gated work remains ordered below until the next bounded outcome is deliberately selected.
 
 ## Recently delivered foundations
 
@@ -51,6 +47,8 @@ Bounded Character orchestration now uses one authoritative Scene-turn path for z
 - [x] Readable Canon object references and complete eligible Character-tag Scene inclusion in Play
 - [x] Adaptive Context-depth and response-scope planning with World-level Auto and fixed preferences
 - [x] Retained, continuity-scoped World media ticker and article drill-down
+- [x] One authoritative bounded Scene-turn path with optional zero-to-two Character workers
+- [x] Conversation-first authoritative fast-forward with explicit Location and cast targeting
 
 ## Ordered roadmap
 
@@ -71,14 +69,14 @@ Bounded Character orchestration now uses one authoritative Scene-turn path for z
 | 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Delivered** |
 | 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | **Delivered** |
 | 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | **Delivered** |
-| 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Active** |
+| 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Delivered** |
 | 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Delivered** |
 | 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Delivered** |
 | 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Delivered** |
 | 20 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Delivered** |
 | 21 | [Adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | Scenes and generation | **Delivered** |
 | 22 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | **Delivered** |
-| 23 | [Conversation-first authoritative fast-forward](https://github.com/DCoreyAbshier/clio-roadmap/issues/28) | Scenes and continuity | Planned |
+| 23 | [Conversation-first authoritative fast-forward](https://github.com/DCoreyAbshier/clio-roadmap/issues/28) | Scenes and continuity | **Delivered** |
 | 24 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
 | 25 | [Source-backed reference-world research in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/27) | Reference-world context | Planned |
 | 26 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
