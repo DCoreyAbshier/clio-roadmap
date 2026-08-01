@@ -12,7 +12,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 | --- | --- | --- |
 | 1 | [Add bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | **Active** |
 
-Bounded Character orchestration remains in default-off provider and owner validation. Adaptive Context-depth and response-scope planning has been delivered and accepted through owner testing. No immediate public feature is currently designated **Next**; planned work remains ordered below while the active validation and backend polish finish.
+Bounded Character orchestration now uses one authoritative Scene-turn path for zero, one, or two optional Character workers and remains active for exact-World field validation. Adaptive generation planning and the persistent World news experience are delivered. No immediate public feature is currently designated **Next**; planned work remains ordered below while active validation finishes.
 
 ## Recently delivered foundations
 
@@ -50,6 +50,7 @@ Bounded Character orchestration remains in default-off provider and owner valida
 - [x] Persistent Location visual sets with Canon management and subordinate Play orientation
 - [x] Readable Canon object references and complete eligible Character-tag Scene inclusion in Play
 - [x] Adaptive Context-depth and response-scope planning with World-level Auto and fixed preferences
+- [x] Retained, continuity-scoped World media ticker and article drill-down
 
 ## Ordered roadmap
 
@@ -76,12 +77,13 @@ Bounded Character orchestration remains in default-off provider and owner valida
 | 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Delivered** |
 | 20 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Delivered** |
 | 21 | [Adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | Scenes and generation | **Delivered** |
-| 22 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
-| 23 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | Planned |
-| 24 | [Source-backed reference-world research in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/27) | Reference-world context | Planned |
-| 25 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
-| 26 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
-| 27 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
+| 22 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | **Delivered** |
+| 23 | [Conversation-first authoritative fast-forward](https://github.com/DCoreyAbshier/clio-roadmap/issues/28) | Scenes and continuity | Planned |
+| 24 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
+| 25 | [Source-backed reference-world research in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/27) | Reference-world context | Planned |
+| 26 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
+| 27 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
+| 28 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
 
 ## How progress is tracked
 
@@ -103,4 +105,4 @@ Browse and follow the individual [public roadmap issues](https://github.com/DCor
 4. Preserve reliable existing paths while advanced behavior is proven incrementally.
 5. Add optional integration or broader automation only after a concrete benefit is demonstrated.
 
-_Last synchronized with Clio's private engineering roadmap: July 30, 2026._
+_Last synchronized with Clio's private engineering roadmap: August 1, 2026._
