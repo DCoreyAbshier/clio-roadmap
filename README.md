@@ -8,11 +8,11 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 ## Current focus
 
-[**Narrative Fidelity Guard**](https://github.com/DCoreyAbshier/clio-roadmap/issues/29) is Clio's active critical feature.
+[**Narrative Fidelity Guard**](https://github.com/DCoreyAbshier/clio-roadmap/issues/29) remains Clio's active critical feature.
 
-It will preserve literal claims and clarifications, keep Character reactions grounded in established evidence, and prevent accusations, rumors, public framing, or model inference from silently becoming authoritative World truth. The protection applies across every Scene and voice; it is not limited to politically or culturally sensitive material.
+The provider-independent fidelity contracts and sanitized paired evaluation corpus are now delivered. The current slice builds longitudinal claim and clarification evidence so Clio can distinguish what a speaker actually said, qualified, rejected, or already answered—and identify when relevant history is outside the bounded evidence window.
 
-The current slice defines the provider-independent fidelity contracts and paired evaluation corpus. Runtime blocking remains later, evidence-gated work after longitudinal evidence, shadow review, Character and authority validation, and measured false-positive performance.
+Later slices add explicit corrections, shadow review, Character and narrative-authority validation, measured promotion gates, bounded enforcement, and provider compatibility. Runtime blocking remains evidence-gated.
 
 This is a narrative-integrity feature—not a neutrality, politeness, or approved-opinion system. Grounded radical, prejudiced, hostile, charitable, or inconsistent Characters must retain their established voice.
 
@@ -57,6 +57,7 @@ This is a narrative-integrity feature—not a neutrality, politeness, or approve
 - [x] Conversation-first authoritative fast-forward with explicit Location and cast targeting
 - [x] Supported declarative Play themes with safe preference resolution and Location-backdrop integration
 - [x] Reversible versioned adaptive-runtime defaults for newly created Worlds
+- [x] Provider-independent Narrative Fidelity contracts and a sanitized paired adversarial corpus
 
 ## Ordered roadmap
 
