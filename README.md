@@ -8,7 +8,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 ## Current focus
 
-No public outcome is currently designated **Active** or **Next**. Bounded multi-Character orchestration and conversation-first fast-forwarding are now delivered after owner validation. Planned and tooling-gated work remains ordered below until the next bounded outcome is deliberately selected.
+**Narrative Fidelity Guard** is now Clio's active critical outcome. The immediate next slice defines provider-independent fidelity contracts and a paired adversarial corpus before any runtime blocking behavior is considered. Other planned and tooling-gated work remains ordered behind this program.
 
 ## Recently delivered foundations
 
@@ -49,44 +49,48 @@ No public outcome is currently designated **Active** or **Next**. Bounded multi-
 - [x] Retained, continuity-scoped World media ticker and article drill-down
 - [x] One authoritative bounded Scene-turn path with optional zero-to-two Character workers
 - [x] Conversation-first authoritative fast-forward with explicit Location and cast targeting
+- [x] Supported declarative Play themes with safe preference resolution and Location-backdrop integration
+- [x] Reversible versioned adaptive-runtime defaults for newly created Worlds
 
 ## Ordered roadmap
 
 | Order | Public outcome | Phase | Status |
 | ---: | --- | --- | --- |
-| 1 | [Typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | Shared foundations | **Delivered** |
-| 2 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Delivered** |
-| 3 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Delivered** |
-| 4 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | **Delivered** |
-| 5 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | **Delivered** |
-| 6 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | **Delivered** |
-| 7 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | **Delivered** |
-| 8 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | **Delivered** |
-| 9 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | **Delivered** |
-| 10 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Delivered** |
-| 11 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | **Delivered** |
-| 12 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | **Delivered** |
-| 13 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Delivered** |
-| 14 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | **Delivered** |
-| 15 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | **Delivered** |
-| 16 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Delivered** |
-| 17 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Delivered** |
-| 18 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Delivered** |
-| 19 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Delivered** |
-| 20 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Delivered** |
-| 21 | [Adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | Scenes and generation | **Delivered** |
-| 22 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | **Delivered** |
-| 23 | [Conversation-first authoritative fast-forward](https://github.com/DCoreyAbshier/clio-roadmap/issues/28) | Scenes and continuity | **Delivered** |
-| 24 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Planned |
-| 25 | [Source-backed reference-world research in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/27) | Reference-world context | Planned |
-| 26 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
-| 27 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
-| 28 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
+| 1 | [Narrative Fidelity Guard](https://github.com/DCoreyAbshier/clio-roadmap/issues/29) | Narrative integrity | **Active** |
+| 2 | [Typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | Shared foundations | **Delivered** |
+| 3 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Delivered** |
+| 4 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Delivered** |
+| 5 | [Player agency and improved Play input](https://github.com/DCoreyAbshier/clio-roadmap/issues/4) | Character foundations | **Delivered** |
+| 6 | [Significant objects and placement](https://github.com/DCoreyAbshier/clio-roadmap/issues/5) | Character foundations | **Delivered** |
+| 7 | [Character development and progression](https://github.com/DCoreyAbshier/clio-roadmap/issues/6) | Character foundations | **Delivered** |
+| 8 | [Stronger transaction and effect handling](https://github.com/DCoreyAbshier/clio-roadmap/issues/7) | Causation and integrity | **Delivered** |
+| 9 | [Explicit dependency relationships](https://github.com/DCoreyAbshier/clio-roadmap/issues/8) | Causation and integrity | **Delivered** |
+| 10 | [Dependency-aware downstream updates](https://github.com/DCoreyAbshier/clio-roadmap/issues/9) | Causation and integrity | **Delivered** |
+| 11 | [Canon encyclopedia browser](https://github.com/DCoreyAbshier/clio-roadmap/issues/18) | Authoring and presentation | **Delivered** |
+| 12 | [Significant information and Character awareness](https://github.com/DCoreyAbshier/clio-roadmap/issues/10) | Knowledge and relationships | **Delivered** |
+| 13 | [Relationship state and social initiative](https://github.com/DCoreyAbshier/clio-roadmap/issues/11) | Knowledge and relationships | **Delivered** |
+| 14 | [Compound turns across Scenes](https://github.com/DCoreyAbshier/clio-roadmap/issues/12) | Scenes and simulation | **Delivered** |
+| 15 | [New Scenes when Locations are revisited](https://github.com/DCoreyAbshier/clio-roadmap/issues/13) | Scenes and simulation | **Delivered** |
+| 16 | [Bounded simulation checkpoints](https://github.com/DCoreyAbshier/clio-roadmap/issues/14) | Scenes and simulation | **Delivered** |
+| 17 | [Bounded multi-Character orchestration](https://github.com/DCoreyAbshier/clio-roadmap/issues/15) | Scenes and simulation | **Delivered** |
+| 18 | [Downloadable versioned import templates](https://github.com/DCoreyAbshier/clio-roadmap/issues/19) | Authoring and presentation | **Delivered** |
+| 19 | [Location spatial state and significant history](https://github.com/DCoreyAbshier/clio-roadmap/issues/16) | World presentation | **Delivered** |
+| 20 | [Persistent Location visual sets](https://github.com/DCoreyAbshier/clio-roadmap/issues/17) | World presentation | **Delivered** |
+| 21 | [Canon object and tag-group references in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/25) | Play and authoring | **Delivered** |
+| 22 | [Adaptive generation planning](https://github.com/DCoreyAbshier/clio-roadmap/issues/26) | Scenes and generation | **Delivered** |
+| 23 | [Persistent World news experience](https://github.com/DCoreyAbshier/clio-roadmap/issues/21) | Authoring and presentation | **Delivered** |
+| 24 | [Conversation-first authoritative fast-forward](https://github.com/DCoreyAbshier/clio-roadmap/issues/28) | Scenes and continuity | **Delivered** |
+| 25 | [Declarative presentation themes](https://github.com/DCoreyAbshier/clio-roadmap/issues/20) | Authoring and presentation | Foundation delivered; expansion planned |
+| 26 | [Source-backed reference-world research in Play](https://github.com/DCoreyAbshier/clio-roadmap/issues/27) | Reference-world context | Planned |
+| 27 | [Secure internal runtime interface evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/22) | Future integration | Deferred |
+| 28 | [Event and faction simulation evaluation](https://github.com/DCoreyAbshier/clio-roadmap/issues/23) | Future simulation | Deferred |
+| 29 | [Obsolete demo-content retirement](https://github.com/DCoreyAbshier/clio-roadmap/issues/24) | Maintenance | Opportunistic |
 
 ## How progress is tracked
 
 - **Delivered** means the high-level public outcome has shipped and its roadmap issue is closed.
 - **Active** means the outcome is currently being implemented.
+- **Foundation delivered; expansion planned** means the first supported product slice has shipped while later bounded phases remain open.
 - **Next** is the immediate follow-up after active work or the first ready public outcome when no public feature is active.
 - **Planned** work follows the displayed execution order unless correctness or a discovered dependency requires a documented change.
 - **Deferred** work has deliberate entry conditions that have not been met.
@@ -103,4 +107,4 @@ Browse and follow the individual [public roadmap issues](https://github.com/DCor
 4. Preserve reliable existing paths while advanced behavior is proven incrementally.
 5. Add optional integration or broader automation only after a concrete benefit is demonstrated.
 
-_Last synchronized with Clio's private engineering roadmap: August 1, 2026._
+_Last synchronized with Clio's private engineering roadmap: August 2, 2026._
