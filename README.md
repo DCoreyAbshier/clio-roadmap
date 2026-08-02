@@ -8,7 +8,13 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 ## Current focus
 
-**Narrative Fidelity Guard** is now Clio's active critical outcome. The immediate next slice defines provider-independent fidelity contracts and a paired adversarial corpus before any runtime blocking behavior is considered. Other planned and tooling-gated work remains ordered behind this program.
+[**Narrative Fidelity Guard**](https://github.com/DCoreyAbshier/clio-roadmap/issues/29) is Clio's active critical feature.
+
+It will preserve literal claims and clarifications, keep Character reactions grounded in established evidence, and prevent accusations, rumors, public framing, or model inference from silently becoming authoritative World truth. The protection applies across every Scene and voice; it is not limited to politically or culturally sensitive material.
+
+The current slice defines the provider-independent fidelity contracts and paired evaluation corpus. Runtime blocking remains later, evidence-gated work after longitudinal evidence, shadow review, Character and authority validation, and measured false-positive performance.
+
+This is a narrative-integrity feature—not a neutrality, politeness, or approved-opinion system. Grounded radical, prejudiced, hostile, charitable, or inconsistent Characters must retain their established voice.
 
 ## Recently delivered foundations
 
@@ -56,7 +62,7 @@ This repository is Clio's public, high-level product roadmap. It intentionally e
 
 | Order | Public outcome | Phase | Status |
 | ---: | --- | --- | --- |
-| 1 | [Narrative Fidelity Guard](https://github.com/DCoreyAbshier/clio-roadmap/issues/29) | Narrative integrity | **Active** |
+| 1 | [Narrative Fidelity Guard](https://github.com/DCoreyAbshier/clio-roadmap/issues/29) | Narrative integrity feature | **Active — critical** |
 | 2 | [Typed world-object schema registry](https://github.com/DCoreyAbshier/clio-roadmap/issues/1) | Shared foundations | **Delivered** |
 | 3 | [Configurable Character Conditions](https://github.com/DCoreyAbshier/clio-roadmap/issues/2) | Character foundations | **Delivered** |
 | 4 | [Stable Character Expression](https://github.com/DCoreyAbshier/clio-roadmap/issues/3) | Character foundations | **Delivered** |
